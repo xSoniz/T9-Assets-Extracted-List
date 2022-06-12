@@ -1,5 +1,6 @@
  private enum XAssetType : int
 {
+        unknow,
 	assetlist,
 	physpreset,
 	physconstraints,
